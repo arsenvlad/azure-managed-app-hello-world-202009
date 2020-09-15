@@ -2,6 +2,8 @@
 
 This repo contains a simple "Hello World" style example of Azure Managed application that is used in this video tutorial [Simple Azure Managed Application: creating, testing, and publishing in Partner Center](https://medium.com/@ArsenVlad/simple-azure-managed-application-creating-testing-and-publishing-in-partner-center-d2cb3b98bed2)
 
+> Important: When building your Azure Application ARM templates for submission to Azure Marketplace, please make sure to carefully follow all of the guidelines and practices described [here](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md) and be ready to make fixes and changes based on [manual review feedback](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/azure-apps-review-feedback).
+
 Test the application using <http://github.com/arm-ttk> tool
 
 ```cmd
