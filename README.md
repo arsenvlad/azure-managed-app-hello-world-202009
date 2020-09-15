@@ -1,6 +1,6 @@
 # Azure Managed Application - Hello World Example (September 2020)
 
-This repo contains a simple "Hello World" style example of Azure Managed application that is used in this video tutorial <https://www.youtube.com/watch?v=eCGFmUirLGU>
+This repo contains a simple "Hello World" style example of Azure Managed application that is used in this video tutorial [Simple Azure Managed Application: creating, testing, and publishing in Partner Center](https://medium.com/@ArsenVlad/simple-azure-managed-application-creating-testing-and-publishing-in-partner-center-d2cb3b98bed2)
 
 Test the application using <http://github.com/arm-ttk> tool
 
