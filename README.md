@@ -4,7 +4,7 @@ This repo contains a simple "Hello World" style example of Azure Managed applica
 
 > Important: When building your Azure Application ARM templates for submission to Azure Marketplace, please make sure to carefully follow all of the guidelines and practices described [here](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md) and be ready to make fixes and changes based on [manual review feedback](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/azure-apps-review-feedback).
 
-Test the application using <http://github.com/arm-ttk> tool
+Test the application using <http://github.com/Azure/arm-ttk> tool
 
 ```cmd
 C:\Code\GitHub\Azure\arm-ttk\arm-ttk\Test-AzTemplate.cmd
