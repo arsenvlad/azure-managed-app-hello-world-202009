@@ -6,7 +6,7 @@
             "kind": "Overview",
             "properties": {
                 "header": "Azure Managed Application",
-                "description": "This **Hello World!** managed application is for **demo** purposes."
+                "description": "This **Hello World!** managed application is for **demo** purposes.\n\nTEST #2"
             }
         }
     ]
